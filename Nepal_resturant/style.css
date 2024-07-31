@@ -3,7 +3,7 @@ body {
     margin: 0;
     padding: 0;
     background-color: #f8f8f8;
-    background-image: url(images/hero-bg.jpg)
+    background-image: url(images/back.jpg)
 }
 header {
     background-color: #333;
@@ -25,7 +25,7 @@ nav ul li a {
     text-decoration: none;
 }
 .container {
-    max-width: 1200px;
+    max-width: 1201px;
     margin: 0 auto;
     padding: 20px;
 }
